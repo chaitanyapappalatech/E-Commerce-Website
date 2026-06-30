@@ -7,7 +7,7 @@ A full-stack e-commerce web application built with **PHP, MySQL (PDO), HTML, CSS
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Home Page Preview](./screenshots/home.png)
+![Home Page Preview](http://localhost/ECOMMERCE/index.php)
 
 ---
 
@@ -186,7 +186,7 @@ This is an intentional security decision, not an oversight:
 
 | Home Page | Register |
 |:---:|:---:|
-| ![Home Page](./screenshots/home.png) | ![Register Page](./screenshots/register.png) |
+| ![Home Page](http://localhost/ECOMMERCE/index.php) | ![Register Page](./screenshots/register.png) |
 
 | Login | Cart |
 |:---:|:---:|
@@ -201,7 +201,7 @@ This is an intentional security decision, not an oversight:
 ## 👨‍💻 Author
 
 **Chaitanya Pappala**
-[GitHub] https://github.com/chaitanyapappalatech · [LinkedIn] https://www.linkedin.com/in/chaitanya-sd/· [Portfolio](http://localhost/ECOMMERCE/index.php)
+[GitHub] (https://github.com/chaitanyapappalatech) · [LinkedIn] (https://www.linkedin.com/in/chaitanya-sd/)· [Portfolio](http://localhost/ECOMMERCE/index.php)
 
 ---
 
